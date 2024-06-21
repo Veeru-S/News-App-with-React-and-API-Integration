@@ -12,7 +12,6 @@ This project is a simple news application built using React that integrates with
 
 ## Technologies Used
 - React
-- Axios (for API requests)
 - React Router (for navigation)
 - Styled-components (for styling)
 - News API (source of news articles)
